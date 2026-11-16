@@ -1,0 +1,9 @@
+{
+  "model_id": "textattack/bert-base-uncased-SST-2",
+  "revision": "95f0f6f859b35c8ff0863ae3cd4e2dbc702c0ae2",
+  "retrieved_on": "2026-11-16",
+  "config_url": "https://huggingface.co/textattack/bert-base-uncased-SST-2/resolve/95f0f6f859b35c8ff0863ae3cd4e2dbc702c0ae2/config.json",
+  "tokenizer_config": {"do_lower_case": true, "model_max_length": 512},
+  "num_labels_assumption": 2,
+  "note": "Config JSON is semantically identical to the source; formatting normalized. Weights were not downloaded. num_labels=2 is the BertForSequenceClassification default and matches the SST-2 task. All resource results are analytical, not benchmark measurements."
+}
